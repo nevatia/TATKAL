@@ -76,7 +76,7 @@ This repository provides a semi-automated script to assist in booking Tatkal tic
 ## Steps to Follow
 1. First, modify the `login.json` and `passenger_details.json` files as per your requirements.
 2. Run the Python file.
-3. Browser automation will start, and it will automatically try to log in to the website and ask for CAPTCHA.
+3. It will automatically try to log in to the website and ask for CAPTCHA. AFTER YOU SEE CURSOR IN CAPTCHA INPUT FIELD, CLICK IN FIELD AND ENTER CAPTCHA.
 4. After entering the correct CAPTCHA, the script will search for your trains and display a list of available options.
 5. Wait for 10 AM and click on the desired **CLASS** (AC3/2/1 tier), then select **DATE**, and finally click **BOOK NOW**.
 6. All passenger details will be auto-filled, and you will be taken to the **PAYMENT CAPTCHA** page.
