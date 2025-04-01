@@ -83,6 +83,9 @@ This repository provides a semi-automated script to assist in booking Tatkal tic
 8. Select your desired **payment option** and complete the payment quickly.
 9. The program will wait for **3 minutes** and then exit.
 
+## EXE
+Also included EXE folder which contains executable file. No need to install python or other libraries. You only need windows with chrome. Update login and passengers file and run exe.
+
 ## Disclaimer
 This script is intended for educational purposes only. Use at your own risk. We are not responsible for any misuse or violations of IRCTC's terms and conditions.
 
