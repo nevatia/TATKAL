@@ -1,6 +1,6 @@
 # IRCTC Tatkal Ticket Booking Automation
 
-This repository provides a semi-automated script to assist in booking Tatkal tickets on [IRCTC](https://www.irctc.co.in) using Google Chrome. The script helps fill in login details, passenger information, and journey details to speed up the booking process.
+This repository provides a semi-automated script to assist in booking Tatkal tickets on [IRCTC](https://www.irctc.co.in) using Google Chrome. The script helps fill in login details, passenger information, and journey details to speed up the booking process. It needs chrome browser.
 
 ## Features
 - Auto-fills login credentials.
