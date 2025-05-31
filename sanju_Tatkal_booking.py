@@ -10,9 +10,9 @@ import time
 from selenium.common.exceptions import NoAlertPresentException
 import json
 import sys
-options = uc.ChromeOptions()
-options.add_argument("--disable-extensions")
-driver = uc.Chrome(options=options)
+#options = uc.ChromeOptions()
+#options.add_argument("--disable-extensions")
+#driver = uc.Chrome(options=options)
 
 #Load data
 passengers  = 'passenger_data.json'
